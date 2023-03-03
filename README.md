@@ -1,5 +1,5 @@
 Hi there, I'm Nashir Abdullah 👋
-🔭 I’m currently working as a flutter developer at Noqod opc india pvt ltd
+
 
 
 
