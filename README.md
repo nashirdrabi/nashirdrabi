@@ -1,6 +1,6 @@
 Hi there, I'm Nashir Abdullah 👋
 <br>
-I am currently working as a Flutter developer at Noqod opc india pvt ltd
+I am currently working as a Flutter developer at Nyur tech pvt ltd
 
 
 
