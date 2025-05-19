@@ -1,6 +1,6 @@
 Hi there, I'm Nashir Abdullah 👋
 <br>
-I am currently working as a Flutter developer at Help Rush
+I am currently working as a Flutter developer at Nyur Tech
 
 
 
